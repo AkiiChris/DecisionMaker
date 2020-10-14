@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{254602F3-DBB0-423F-BE7D-36020DDB87A5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DecisionMaker1/Program.cs">
+    <Files>
+      <File FileName="DecisionMaker1/Program.cs" Line="72" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DecisionMaker1" expanded="True">
+            <Node name="DecisionMaker1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DecisionMaker1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
